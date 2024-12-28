@@ -1,6 +1,5 @@
 # pip install -U altair vega_datasets
 
-
 import altair as alt 
 from vega_datasets import data
 
@@ -13,7 +12,6 @@ crimea
 
 
 wounds = crimea[crimea.cause == 'wounds']
-
 wounds.head()
 
 
@@ -85,7 +83,6 @@ alt.Chart(crimea).mark_bar().encode(
     width=125,
     height=100
 )
-
 
 
 alt.Chart(crimea).mark_rect().encode(
