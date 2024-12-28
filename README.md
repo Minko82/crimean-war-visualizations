@@ -39,7 +39,7 @@ This project is inspired by her revolutionary use of data to drive meaningful ch
 
 To run the visualizations, install the required libraries:
 ```bash
-pip install -U altair vega_datasets
+pip install altair pandas vega_datasets
 ```
 
 <br>
