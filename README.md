@@ -4,6 +4,7 @@ This project explores the causes of death during the Crimean War using the **Cri
 
 
 ---
+<br>
 
 ## ✨ **Historical Context**
 
@@ -13,8 +14,26 @@ Enter **Florence Nightingale**, a pioneering statistician and nurse. Her groundb
 
 This project is inspired by her revolutionary use of data to drive meaningful change.
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="pics/florence_nightingale.png" alt="Florence Nightingale" width="300">
+      <br>
+      <em>Florence Nightingale</em>
+    </td>
+    <td align="center">
+      <img src="pics/rose_diagram.png" alt="Rose Diagram" width="300">
+      <br>
+      <em>Rose Diagram</em>
+    </td>
+  </tr>
+</table>
+
+<br>
+
 ---
 
+<br>
 
 ## 🚀 **Getting Started**
 
@@ -25,9 +44,11 @@ To run the visualizations, install the required libraries:
 pip install -U altair vega_datasets
 ```
 
+<br>
 
 ---
 
+<br>
 
 ## 📂 Dataset Overview
 The dataset includes:
@@ -35,18 +56,29 @@ The dataset includes:
 - **Date:** The time period of recorded deaths.
 - **Cause:** The category of death (wounds, disease, or other causes).
 - **Count:** The number of deaths in each category.
+<br>
 
 ---
+
+<br>
 
 ## 🎨 Visualizations
 
 1. **Stacked Area Chart:** Causes of Death
+   
+   <img src="pics/stacked_area_graph.png" alt="Stacked area graph of causes of death" width="500">
 
-2. **Grouped Bar Chart:** Deaths by Cause
+3. **Gradient Bar Chart:** Deaths by Cause
 
-3. **Horizontal Bar Chart w/ Labels:** Deaths by Cause
+   <img src="pics/gradient_bar_graph.png" alt="Gradient bar chart of causes of death" width="500">
 
-4. **Heatmap:** Death Intensity Over Time
+5. **Horizontal Bar Chart w/ Labels:** Deaths by Cause
+   
+   <img src="pics/horizontal_bar_graph.png" alt="Horizontal bar chart with labels" width="500">
+
+6. **Heatmap:** Death Intensity Over Time
+
+   <img src="pics/heat_map.png" alt="heatmap showing the intensity of death over time" width="500">
 
 ---
 
