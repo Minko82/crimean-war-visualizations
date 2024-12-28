@@ -4,7 +4,6 @@ This project explores the causes of death during the Crimean War using the **Cri
 
 
 ---
-<br>
 
 ## ✨ **Historical Context**
 
@@ -33,7 +32,6 @@ This project is inspired by her revolutionary use of data to drive meaningful ch
 
 ---
 
-<br>
 
 ## 🚀 **Getting Started**
 
@@ -48,7 +46,6 @@ pip install -U altair vega_datasets
 
 ---
 
-<br>
 
 ## 📂 Dataset Overview
 The dataset includes:
@@ -59,8 +56,6 @@ The dataset includes:
 <br>
 
 ---
-
-<br>
 
 ## 🎨 Visualizations
 
@@ -80,6 +75,8 @@ The dataset includes:
 
    <img src="pics/heat_map.png" alt="heatmap showing the intensity of death over time" width="500">
 
+ <br>
+ 
 ---
 
 ## 🛠️ Tools & Libraries Used
