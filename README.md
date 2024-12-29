@@ -1,8 +1,9 @@
 # 🩺 **Visualizing Deaths in the Crimean War** 📊
 
-
+## 📝 **Project Description**
 This project explores the causes of death during the Crimean War using the **Crimea dataset** from the `vega_datasets` library. 
 
+<br>
 
 ---
 
@@ -85,4 +86,4 @@ The dataset includes:
 - **Vega Datasets:** A collection of datasets for experimentation and learning.
 - **Pandas:** For data manipulation and transformation.
 
-   
+---
