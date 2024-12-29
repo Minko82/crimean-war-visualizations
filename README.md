@@ -1,5 +1,6 @@
 # 🩺 **Visualizing Deaths in the Crimean War** 📊
 
+
 This project explores the causes of death during the Crimean War using the **Crimea dataset** from the `vega_datasets` library. 
 
 
@@ -47,7 +48,7 @@ pip install altair pandas vega_datasets
 ---
 
 
-## 📂 Dataset Overview
+## 📂 **Dataset** 
 The dataset includes:
 
 - **Date:** The time period of recorded deaths.
@@ -57,7 +58,7 @@ The dataset includes:
 
 ---
 
-## 🎨 Visualizations
+## 🎨 **Visualizations**
 
 1. **Stacked Area Chart:** Causes of Death
    
@@ -79,7 +80,7 @@ The dataset includes:
  
 ---
 
-## 🛠️ Tools & Libraries Used
+## 💻 **Technologies and Tools**
 - **Altair:** For creating interactive, declarative visualizations.
 - **Vega Datasets:** A collection of datasets for experimentation and learning.
 - **Pandas:** For data manipulation and transformation.
