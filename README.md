@@ -34,21 +34,6 @@ This project is inspired by her revolutionary use of data to drive meaningful ch
 
 ---
 
-
-## 🚀 **Getting Started**
-
-### **Installation**
-
-To run the visualizations, install the required libraries:
-```bash
-pip install altair pandas vega_datasets
-```
-
-<br>
-
----
-
-
 ## 📂 **Dataset** 
 The dataset includes:
 
@@ -86,4 +71,21 @@ The dataset includes:
 - **Vega Datasets:** A collection of datasets for experimentation and learning.
 - **Pandas:** For data manipulation and transformation.
 
+<br>
+
 ---
+
+## 🚀 **How to Use**
+
+### **Run with Python Command Line**
+
+1. Clone and open the repository:  
+   ```bash
+   git clone https://github.com/Minko82/Crimean-War-Visualizations.git
+   cd Crimean-War-Visualizations
+   ```
+
+2. Run the Python script from the Command Line:
+   ```bash
+   python Crimean-War-Visualizations.py
+   ```
